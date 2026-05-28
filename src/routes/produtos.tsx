@@ -109,7 +109,7 @@ function Produtos() {
 
   return (
     <>
-      <PageHero title="Produtos/E-commerce" subtitle="Acesse nosso e-comerce e toda l inha completa para seu tacógrafo e sistema elétrico." />
+      <PageHero title="Produtos/E-commerce" subtitle="Acesse nosso e-comerce e toda linha completa para seu tacógrafo e sistema elétrico." />
       <section className="max-w-7xl mx-auto w-full px-4 py-16">
         <div className="flex flex-col gap-5 max-w-4xl mx-auto">
           {categories.map((cat) => {

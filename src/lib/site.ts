@@ -4,7 +4,7 @@ export const SITE = {
   phoneRaw: "+554735214622",
   phones: [
     { label: "Peças", number: "(47) 98905-5052", raw: "+5547989055052", whatsapp: "5547989055052" },
-    { label: "Aferições", number: "(47) 99221-9752", raw: "+5547992219752", whatsapp: "5547992219752" },
+    { label: "Aferições", number: "(47) 99914-0300", raw: "+5547999140300", whatsapp: "5547999140300" },
     { label: "Financeiro", number: "(47) 3521-4622", raw: "+554735214622", whatsapp: "554735214622" },
   ],
   whatsapp: "554735214622",

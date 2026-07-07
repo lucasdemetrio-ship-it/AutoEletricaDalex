@@ -54,7 +54,7 @@ Auto Elétrica Dalex
 📍 Rodovia BR-470 — Rio do Sul/SC
 
 📞 Financeiro: (47) 3521-4622
-📞 Aferições: (47) 99221-9752
+📞 Aferições: (47) 99914-0300
 📞 Peças: (47) 98905-5052
 
 📸 Instagram:
@@ -134,7 +134,7 @@ Auto Elétrica Dalex
 📍 Rodovia BR-470 — Rio do Sul/SC
 
 📞 Financeiro: (47) 3521-4622
-📞 Aferições: (47) 99221-9752
+📞 Aferições: (47) 99914-0300
 📞 Peças: (47) 98905-5052
 
 📸 Instagram:
